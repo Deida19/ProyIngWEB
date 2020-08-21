@@ -6,11 +6,12 @@ ul{
 ul, li, a{
     color: #F6F7F9;
     font-size: 18px;
-    
+    height: 50px;
    }
 
 li:hover {
-    background-color:#F6F7F9;
     color:#052C53;
-    ;
+    background-color:#F6F7F9;
+    text-align: center;
+    align-items: center;
   }
