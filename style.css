@@ -1,6 +1,7 @@
 ul{
     background-color: #052C53;
     font-size: 20px;
+    margin-top: 5px;
    }
 
 ul, li, a{
@@ -15,3 +16,8 @@ li:hover {
     text-align: center;
     align-items: center;
   }
+
+a{
+    text-align: center;
+    
+   }
