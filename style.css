@@ -32,7 +32,7 @@ a{
   font-size:20px;
   text-align:center;
   color:#052C53;
-  margin-left:45%; 
+  margin-left:35%; 
   margin-top:17%;
 }
 
@@ -41,4 +41,5 @@ a{
   background-color:#FFFFFF; 
   border: 1px solid #052C53; 
   border-radius: 2em;
+  margin-left: 20em;
 }
