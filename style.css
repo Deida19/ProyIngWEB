@@ -8,7 +8,7 @@ ul, li, a{
     font-size: 20px;
    }
 
-a:hover {
+li:hover {
     background-color:#F6F7F9;
     color:#052C53;
     ;
