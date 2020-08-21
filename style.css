@@ -3,7 +3,7 @@ ul{
     width:30px;
   }
 
-ul li{
+ul, li{
     font-size: 20em;
     color: #052C53;
    }
