@@ -53,3 +53,10 @@ a{
   outline-offset: 80px;
   text-shadow: 1px 1px 6px #fff;
 }
+
+.icon{
+  width:3em; 
+  height:3em;
+  margin-left:3em; 
+  margin-right: 2em;
+}
