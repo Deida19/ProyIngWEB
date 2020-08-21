@@ -19,3 +19,17 @@ a{
     text-align: center;
     
    }
+
+.imagen{
+  width:80em; 
+  height: 30em; 
+  margin-left:250px; 
+  margin-top: 15px; 
+  margin-right:100px
+}
+
+.pie{
+  font-size:30px;
+  text-align:center;
+  color:#052C53;
+}
