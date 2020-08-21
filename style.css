@@ -29,7 +29,16 @@ a{
 }
 
 .pie{
-  font-size:30px;
+  font-size:20px;
   text-align:center;
   color:#052C53;
+  margin-left:45%; 
+  margin-top:17%;
+}
+
+
+#btnContinuar{
+  background-color:#FFFFFF; 
+  border: 1px solid #052C53; 
+  border-radius: 2em;
 }
