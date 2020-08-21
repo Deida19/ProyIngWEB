@@ -1,4 +1,15 @@
+ul{
+    background-color: #052C53;
+    font-size: 20px;
+   }
+
 ul, li, a{
     color: #052C53;
-    font-size: 10px;
+    font-size: 20px;
    }
+
+a:hover {
+    background-color:#F6F7F9;
+    color:#052C53;
+    ;
+  }
