@@ -60,3 +60,36 @@ a{
   margin-left:3em; 
   margin-right: 2em;
 }
+
+.divGeneral{
+  background-color:#979CA5; 
+  margin-bottom:1em; 
+  height:40em;
+}
+
+#divconten{
+  margin-top:5em;
+}
+
+.titulo{
+  text-align:center; 
+  color: #052C53;
+}
+
+#tarjeta{
+  width:75em; 
+  margin-top:5em; 
+  content:center;
+}
+
+#imgtar{
+  margin:5em; 
+  width:15em; 
+  height:15em;
+}
+
+#texto{
+  text-align:justify; 
+  margin-top:2em; 
+  margin-right:3em;
+}
