@@ -116,3 +116,20 @@ a{
   margin-left:3em; 
   padding:1em;
 }
+
+.card{
+  color:#052C53; 
+  font-size:18px;
+}
+
+button{
+  font-size:16px; 
+  color:#052C53; 
+  font-weight: bold;
+}
+
+.detCollap{
+  background-color:#052C53; 
+  color:#ffffff; 
+  font-size:16px;
+}
