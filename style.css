@@ -26,6 +26,7 @@ a:active {
 
 a:hover {
   color:#FFFFFF;
+  background-color: red;
 }
 a{
     text-align: center;
