@@ -151,8 +151,8 @@ a{
   justify-content: center; 
   overflow: hidden; 
   height: 200px; 
-  margin: 2em; 
-  width: 100%; 
+  margin: 1em; 
+  width: 80%; 
   border-radius: 0; 
   flex-direction: row;
 }
