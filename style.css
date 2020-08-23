@@ -178,3 +178,16 @@ a{
   color: #052C53;
   font-size:18px
 }
+
+.cardContacto{
+  border-radius: 2em; 
+  height:25em; 
+  margin:2em;
+}
+
+.imgContacto{
+  width:150px; 
+  height:110px; 
+  margin:3em; 
+  opacity:0.7;
+}
