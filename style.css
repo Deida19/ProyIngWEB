@@ -91,6 +91,8 @@ a{
   width:75em; 
   margin-top:5em; 
   content:center;
+  border: 3px solid #F6F7F9;
+  border-radius: 1em;
 }
 
 #imgtar{
@@ -153,10 +155,12 @@ a{
   justify-content: center; 
   overflow: hidden; 
   height: 140px; 
-  margin: 3em; 
+  margin: 2em; 
   width: 90%; 
   border-radius: 0; 
   flex-direction: row;
+  border: 3px solid #F6F7F9;
+  border-radius: 1em;
 }
 
 .colRef{
@@ -168,6 +172,22 @@ a{
   background-color:#052C53;
   color: white;
   flex-basis: 50%;
+}
+
+.jmblaboral{
+  margin-top:3em; 
+  background-color:#FFFFFF;
+  border: 3px solid #052C53; 
+  border-radius: 1em; opacity:0.8;
+
+}
+
+.accAcademico{
+  background-color: #FFFFFF; 
+  border: 3px solid #052C53; 
+  border-radius: 1em; 
+  opacity:0.9; 
+  margin-top:3em;
 }
 
 .colRef2{
