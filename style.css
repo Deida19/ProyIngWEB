@@ -2,7 +2,6 @@ ul{
     background-color: #052C53;
     font-size: 20px;
     margin-top: 5px;
-    opacity: 0;
    }
 
 ul, li, a{
@@ -13,8 +12,6 @@ ul, li, a{
 
 li:hover {
     color:#FFFFFF;
-    opacity: 0;
-    background-color: red;
 
     
   }
