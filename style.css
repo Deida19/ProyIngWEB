@@ -2,7 +2,7 @@ ul{
     background-color: #052C53;
     font-size: 20px;
     margin-top: 5px;
-    opacity: 0.3;
+    opacity: 0;
    }
 
 ul, li, a{
@@ -24,10 +24,6 @@ a:active {
     background-color:#F6F7F9;
   }
 
-a:hover {
-  color:#FFFFFF;
-  background-color: red;
-}
 a{
     text-align: center;
     
