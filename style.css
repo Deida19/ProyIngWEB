@@ -14,6 +14,7 @@ ul, li, a{
 li:hover {
     color:#FFFFFF;
     opacity: 0;
+    background-color: red;
 
     
   }
