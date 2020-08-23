@@ -144,3 +144,36 @@ a{
   text-align: center;
 
 }
+
+.rowRef{
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  overflow: hidden; 
+  height: 200px; 
+  margin: 2em; 
+  width: 100%; 
+  border-radius: 0; 
+  flex-direction: row;
+}
+
+.colRef{
+  padding: 30px; 
+  display: flex; 
+  align-items: flex-start; 
+  justify-content: center; 
+  flex-direction: column; 
+  background-color:#052C53;
+  color: white;
+  flex-basis: 50%;
+}
+
+.colRef2{
+  padding: 30px; 
+  flex-basis: 50%; 
+  overflow: hidden; 
+  position: relative; 
+  background-color:#71767C;
+  opacity: 0.5;
+  color: #052C53;
+}
